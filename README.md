@@ -14,7 +14,7 @@ A simple and elegant web app to help you manage your daily expenses with ease. E
 
 1. **Clone the repository:**
    ```bash
-   git clone  https://github.com/anshugupta-om/Expence-Tracker.git
+   git clone  https://github.com/anshugupta-om/Expense-Tracker.git
    ```
 2. **Open `index.html` in your browser.**
 
